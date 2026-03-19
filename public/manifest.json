@@ -1,0 +1,9 @@
+{
+  "short_name": "Elevate OS",
+  "name": "Elevate OS - Sistema de Vida",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0F0F1A",
+  "background_color": "#0F0F1A",
+  "icons": []
+}
